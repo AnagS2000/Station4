@@ -31,7 +31,7 @@ In addition to the RFID system, the station includes a **Human-Machine Interface
 
 ### Simulation Details
 
-#### 5.1 Assumptions for Station 4 Simulation
+#### Assumptions for Station 4 Simulation
 
 Since there is no physical plant or actual RFID sensors available, the following assumptions were made:
 
