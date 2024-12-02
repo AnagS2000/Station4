@@ -47,20 +47,9 @@ Since there is no physical plant or actual RFID sensors available, the following
 
 The files uploaded to the repository were used for programming the **HMI** and the **ladder logic** for the **PLC**. These files contain the configuration and logic needed to control the simulated processes, including the handling of RFID sensors, operator tasks, and quality checks.
 
-## How to Run the Simulation
-
-1. Open the project file in the simulation software.
-2. Simulate the processes for Station 4 using the pre-configured settings.
-3. Monitor the processes through the HMI and visualize the activity of the pistons, RFID sensor (simulated button), and quality check outcomes.
-
 ## Results
 
-The simulation will help evaluate:
-- **Automated transportation** and resource allocation in Station 4.
-- **Efficiency** of the operator and machine interaction.
-- **Quality control** and real-time monitoring of production processes.
-
-Additionally, a video of the physical implementation of the project is available. You can view the implementation video at the following link:
+A video of the physical implementation of the project is available. You can view the implementation video at the following link:
 [Implementation Video](https://drive.google.com/file/d/1w6d39z9hM3CSn1z_oVqoCSAur2E7vjz9/view?usp=sharing)
 
 ## Contact
