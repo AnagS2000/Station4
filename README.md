@@ -29,6 +29,8 @@ In addition to the RFID system, the station includes a **Human-Machine Interface
 - Advance to the next process step in the correct sequence.
 - Record quality checks for each process, indicating whether the outcome is good or bad.
 
+The **Schneider Electric** and **Magelis** systems were used to program and manage the automation processes in Station 4.
+
 ### Simulation Details
 
 #### Assumptions for Station 4 Simulation
@@ -57,6 +59,9 @@ The simulation will help evaluate:
 - **Automated transportation** and resource allocation in Station 4.
 - **Efficiency** of the operator and machine interaction.
 - **Quality control** and real-time monitoring of production processes.
+
+Additionally, a video of the physical implementation of the project is available. You can view the implementation video at the following link:
+[Implementation Video](https://drive.google.com/file/d/1w6d39z9hM3CSn1z_oVqoCSAur2E7vjz9/view?usp=sharing)
 
 ## Contact
 
